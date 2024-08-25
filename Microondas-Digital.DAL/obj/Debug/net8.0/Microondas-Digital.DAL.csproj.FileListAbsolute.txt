@@ -1,0 +1,13 @@
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\bin\Debug\net8.0\Microondas-Digital.DAL.deps.json
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\bin\Debug\net8.0\Microondas-Digital.DAL.dll
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\bin\Debug\net8.0\Microondas-Digital.DAL.pdb
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\Microondas-Digital.DAL.csproj.AssemblyReference.cache
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\Microondas-Digital.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\Microondas-Digital.DAL.AssemblyInfoInputs.cache
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\Microondas-Digital.DAL.AssemblyInfo.cs
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\Microondas-Digital.DAL.csproj.CoreCompileInputs.cache
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\Microondas-Digital.DAL.sourcelink.json
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\Microondas-Digital.DAL.dll
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\refint\Microondas-Digital.DAL.dll
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\Microondas-Digital.DAL.pdb
+D:\dev\Microondas-Digital\Microondas-Digital.DAL\obj\Debug\net8.0\ref\Microondas-Digital.DAL.dll

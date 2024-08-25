@@ -1,0 +1,12 @@
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\bin\Debug\net8.0\Microondas-Digital.Utils.deps.json
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\bin\Debug\net8.0\Microondas-Digital.Utils.dll
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\bin\Debug\net8.0\Microondas-Digital.Utils.pdb
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\obj\Debug\net8.0\Microondas-Digital.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\obj\Debug\net8.0\Microondas-Digital.Utils.AssemblyInfoInputs.cache
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\obj\Debug\net8.0\Microondas-Digital.Utils.AssemblyInfo.cs
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\obj\Debug\net8.0\Microondas-Digital.Utils.csproj.CoreCompileInputs.cache
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\obj\Debug\net8.0\Microondas-Digital.Utils.sourcelink.json
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\obj\Debug\net8.0\Microondas-Digital.Utils.dll
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\obj\Debug\net8.0\refint\Microondas-Digital.Utils.dll
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\obj\Debug\net8.0\Microondas-Digital.Utils.pdb
+D:\dev\Microondas-Digital\Microondas-Digital.Utils\obj\Debug\net8.0\ref\Microondas-Digital.Utils.dll
