@@ -1,7 +1,5 @@
 # Microondas Digital
 
-[https://github.com/user-attachments/assets/6a296913-3431-4ff0-8487-4e9ecbccddef](https://github-production-user-asset-6210df.s3.amazonaws.com/73617999/361258091-6a296913-3431-4ff0-8487-4e9ecbccddef.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240825%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240825T204308Z&X-Amz-Expires=300&X-Amz-Signature=c142a622b0edde163cc6849f944ec704632c07a29c2235f3b9780263676d0f76&X-Amz-SignedHeaders=host&actor_id=73617999&key_id=0&repo_id=847438787)
-
 ## Descrição
 
 O projeto **Microondas Digital** é um sistema para simular o funcionamento de um microondas digital. Ele permite gerenciar programas de aquecimento personalizados e padrões, ajustar potência e tempo e realizar operações como iniciar, pausar e cancelar o aquecimento.
