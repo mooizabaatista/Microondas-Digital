@@ -13,12 +13,12 @@ O projeto **Microondas Digital** é um sistema para simular o funcionamento de u
 - **Operações do Microondas**:
   - Iniciar, pausar e cancelar o aquecimento.
   - Ajustar o tempo e a potência do microondas.
-  - Incrementar o tempo de aquecimento em 30 segundos.
+  - Acrescentar o tempo de aquecimento em 30 segundos.
 
 - **Visualização**:
   - Mostrar o tempo restante no visor.
   - Indicar a potência atual.
-  - Emitir sinais sonoros ao final do aquecimento ou quando o tempo está quase terminando.
+  - Emitir sinais sonoros ao final do aquecimento.
 
 ## Camadas do Projeto
 
@@ -28,7 +28,7 @@ O projeto **Microondas Digital** é um sistema para simular o funcionamento de u
 
 3. **User Interface (UI)**: Interface gráfica do usuário para interação com o micro-ondas digital.
 
-4. **Microondas.Utils**: Fornece utilitários e constantes compartilhadas usadas em várias partes do projeto. Ela inclui:
+4. **Microondas.Utils**: Fornece utilitários e constantes compartilhadas usadas em várias partes do projeto.
 
 
 ## Requisitos
