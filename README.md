@@ -1,11 +1,10 @@
 # Microondas Digital
 
-![image](https://github.com/user-attachments/assets/78ad0034-9699-41b0-8361-b0c6030ceead)
-
-
 ## Descrição
 
 O projeto **Microondas Digital** é um sistema para simular o funcionamento de um microondas digital. Ele permite gerenciar programas de aquecimento personalizados e padrões, ajustar potência e tempo e realizar operações como iniciar, pausar e cancelar o aquecimento.
+
+![image](https://github.com/user-attachments/assets/78ad0034-9699-41b0-8361-b0c6030ceead)
 
 ## Funcionalidades
 
