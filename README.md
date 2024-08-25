@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O projeto **Microondas Digital** é um sistema para simular o funcionamento de um micro-ondas digital. Ele permite gerenciar programas de aquecimento personalizados e padrões, ajustar potência e tempo, e realizar operações como iniciar, pausar e cancelar o aquecimento.
+O projeto **Microondas Digital** é um sistema para simular o funcionamento de um microondas digital. Ele permite gerenciar programas de aquecimento personalizados e padrões, ajustar potência e tempo, e realizar operações como iniciar, pausar e cancelar o aquecimento.
 
 ## Funcionalidades
 
