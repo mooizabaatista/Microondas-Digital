@@ -10,7 +10,7 @@ O projeto **Microondas Digital** é um sistema para simular o funcionamento de u
   - Adicionar, editar e excluir programas personalizados.
   - Visualizar e selecionar programas padrão e personalizados.
 
-- **Operações do Micro-ondas**:
+- **Operações do Microondas**:
   - Iniciar, pausar e cancelar o aquecimento.
   - Ajustar o tempo e a potência do microondas.
   - Incrementar o tempo de aquecimento em 30 segundos.
